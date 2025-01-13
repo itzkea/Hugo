@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on PURELY FLOWERS</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on PURELY FLOWERS</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facts About Flowers</title>
+      <link>http://localhost:1313/posts/rich-content/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <description>Some Facts About Flowers</description>
+    </item>
+    <item>
+      <title>Flowerscape: Where Beauty Meets Nature</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <description>More pictures of Nature full of flowers</description>
+    </item>
+    <item>
+      <title>Importance of Flowers</title>
+      <link>http://localhost:1313/posts/code_syntax/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/code_syntax/</guid>
+      <description>Learn About the Importance of Flowers</description>
+    </item>
+    <item>
+      <title>Types of Flowers</title>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <description>See what makes each flower stand out!</description>
+    </item>
+    <item>
+      <title>Features of Flowers</title>
+      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <description>Learn About the Features of Flowers</description>
+    </item>
+  </channel>
+</rss>
